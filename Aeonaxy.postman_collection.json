@@ -42,7 +42,7 @@
 					]
 				},
 				"url": {
-					"raw": "http://localhost:3001/api/user/register",
+					"raw": "https://aeonaxy-rust.vercel.app/api/user/register",
 					"protocol": "http",
 					"host": ["localhost"],
 					"port": "3001",
@@ -68,7 +68,7 @@
 					"raw": "{\r\n    \"email\": \"\",\r\n    \"password\": \"password\"\r\n}"
 				},
 				"url": {
-					"raw": "http://localhost:3001/api/user/login",
+					"raw": "https://aeonaxy-rust.vercel.app/api/user/login",
 					"protocol": "http",
 					"host": ["localhost"],
 					"port": "3001",
@@ -98,7 +98,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:3001/api/course/new",
+					"raw": "https://aeonaxy-rust.vercel.app/api/course/new",
 					"protocol": "http",
 					"host": ["localhost"],
 					"port": "3001",
@@ -119,7 +119,7 @@
 					}
 				],
 				"url": {
-					"raw": "http://localhost:3001/api/user/confirm-email",
+					"raw": "https://aeonaxy-rust.vercel.app/api/user/confirm-email",
 					"protocol": "http",
 					"host": ["localhost"],
 					"port": "3001",
@@ -143,7 +143,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:3001/api/user/forgot-password",
+					"raw": "https://aeonaxy-rust.vercel.app/api/user/forgot-password",
 					"protocol": "http",
 					"host": ["localhost"],
 					"port": "3001",
@@ -173,7 +173,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:3001/api/user/reset-password",
+					"raw": "https://aeonaxy-rust.vercel.app/api/user/reset-password",
 					"protocol": "http",
 					"host": ["localhost"],
 					"port": "3001",
@@ -214,7 +214,7 @@
 					]
 				},
 				"url": {
-					"raw": "http://localhost:3001/api/user/editProfileDetails",
+					"raw": "https://aeonaxy-rust.vercel.app/api/user/editProfileDetails",
 					"protocol": "http",
 					"host": ["localhost"],
 					"port": "3001",
@@ -229,7 +229,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:3001/api/course/courses?page=2&size=2",
+					"raw": "https://aeonaxy-rust.vercel.app/api/course/courses?page=2&size=2",
 					"protocol": "http",
 					"host": ["localhost"],
 					"port": "3001",
@@ -260,7 +260,7 @@
 					}
 				],
 				"url": {
-					"raw": "http://localhost:3001/api/course/enroll/10",
+					"raw": "https://aeonaxy-rust.vercel.app/api/course/enroll/10",
 					"protocol": "http",
 					"host": ["localhost"],
 					"port": "3001",
@@ -281,7 +281,7 @@
 					}
 				],
 				"url": {
-					"raw": "http://localhost:3001/api/course/my/courses?",
+					"raw": "https://aeonaxy-rust.vercel.app/api/course/my/courses?",
 					"protocol": "http",
 					"host": ["localhost"],
 					"port": "3001",
